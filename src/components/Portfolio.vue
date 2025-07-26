@@ -26,7 +26,6 @@
                         опыта. Реализована структура с разделами «Обо мне», «Навыки», «Проекты», «Контакты» и встроенной
                         формой обратной связи. Использован Vue 3 и компонентный подход для гибкой и масштабируемой
                         архитектуры. Tailwind CSS применён для быстрой стилизации и адаптации под мобильные устройства.
-
                         Интерфейс минималистичный и интуитивно понятный. Код организован по best practices, проект легко
                         расширяется под реальные задачи.</p>
                     <div class="tech">
@@ -34,7 +33,7 @@
                     </div>
                     <div class="live-github">
                         <a href="#portfolio"><i class="fa-solid fa-arrow-left"></i><span>Live Project</span></a>
-                        <a href="https://github.com/yanezhvecnikar/userlogi1/"><i
+                        <a href="https://github.com/yanezhvecnikar/porfolio"><i
                                 class="fa-brands fa-github"></i><span>GitHub
                                 Repository</span></a>
                     </div>
